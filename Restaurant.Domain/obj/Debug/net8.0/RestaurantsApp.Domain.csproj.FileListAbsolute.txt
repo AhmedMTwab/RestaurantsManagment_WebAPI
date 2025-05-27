@@ -1,0 +1,11 @@
+D:\programming\.NET course\Udemy-ASP.NET Core 8 Web API Clean architecture&Azure services\RestaurantManagmentSolution\Restaurant.Domain\bin\Debug\net8.0\RestaurantsApp.Domain.deps.json
+D:\programming\.NET course\Udemy-ASP.NET Core 8 Web API Clean architecture&Azure services\RestaurantManagmentSolution\Restaurant.Domain\bin\Debug\net8.0\RestaurantsApp.Domain.dll
+D:\programming\.NET course\Udemy-ASP.NET Core 8 Web API Clean architecture&Azure services\RestaurantManagmentSolution\Restaurant.Domain\bin\Debug\net8.0\RestaurantsApp.Domain.pdb
+D:\programming\.NET course\Udemy-ASP.NET Core 8 Web API Clean architecture&Azure services\RestaurantManagmentSolution\Restaurant.Domain\obj\Debug\net8.0\RestaurantsApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\.NET course\Udemy-ASP.NET Core 8 Web API Clean architecture&Azure services\RestaurantManagmentSolution\Restaurant.Domain\obj\Debug\net8.0\RestaurantsApp.Domain.AssemblyInfoInputs.cache
+D:\programming\.NET course\Udemy-ASP.NET Core 8 Web API Clean architecture&Azure services\RestaurantManagmentSolution\Restaurant.Domain\obj\Debug\net8.0\RestaurantsApp.Domain.AssemblyInfo.cs
+D:\programming\.NET course\Udemy-ASP.NET Core 8 Web API Clean architecture&Azure services\RestaurantManagmentSolution\Restaurant.Domain\obj\Debug\net8.0\RestaurantsApp.Domain.csproj.CoreCompileInputs.cache
+D:\programming\.NET course\Udemy-ASP.NET Core 8 Web API Clean architecture&Azure services\RestaurantManagmentSolution\Restaurant.Domain\obj\Debug\net8.0\RestaurantsApp.Domain.dll
+D:\programming\.NET course\Udemy-ASP.NET Core 8 Web API Clean architecture&Azure services\RestaurantManagmentSolution\Restaurant.Domain\obj\Debug\net8.0\refint\RestaurantsApp.Domain.dll
+D:\programming\.NET course\Udemy-ASP.NET Core 8 Web API Clean architecture&Azure services\RestaurantManagmentSolution\Restaurant.Domain\obj\Debug\net8.0\RestaurantsApp.Domain.pdb
+D:\programming\.NET course\Udemy-ASP.NET Core 8 Web API Clean architecture&Azure services\RestaurantManagmentSolution\Restaurant.Domain\obj\Debug\net8.0\ref\RestaurantsApp.Domain.dll

@@ -1,0 +1,15 @@
+D:\programming\.NET course\Udemy-ASP.NET Core 8 Web API Clean architecture&Azure services\RestaurantManagmentSolution\Restaurant.Application\bin\Debug\net8.0\RestaurantsApp.Application.deps.json
+D:\programming\.NET course\Udemy-ASP.NET Core 8 Web API Clean architecture&Azure services\RestaurantManagmentSolution\Restaurant.Application\bin\Debug\net8.0\RestaurantsApp.Application.dll
+D:\programming\.NET course\Udemy-ASP.NET Core 8 Web API Clean architecture&Azure services\RestaurantManagmentSolution\Restaurant.Application\bin\Debug\net8.0\RestaurantsApp.Application.pdb
+D:\programming\.NET course\Udemy-ASP.NET Core 8 Web API Clean architecture&Azure services\RestaurantManagmentSolution\Restaurant.Application\bin\Debug\net8.0\RestaurantsApp.Domain.dll
+D:\programming\.NET course\Udemy-ASP.NET Core 8 Web API Clean architecture&Azure services\RestaurantManagmentSolution\Restaurant.Application\bin\Debug\net8.0\RestaurantsApp.Domain.pdb
+D:\programming\.NET course\Udemy-ASP.NET Core 8 Web API Clean architecture&Azure services\RestaurantManagmentSolution\Restaurant.Application\obj\Debug\net8.0\RestaurantsApp.Application.csproj.AssemblyReference.cache
+D:\programming\.NET course\Udemy-ASP.NET Core 8 Web API Clean architecture&Azure services\RestaurantManagmentSolution\Restaurant.Application\obj\Debug\net8.0\RestaurantsApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\.NET course\Udemy-ASP.NET Core 8 Web API Clean architecture&Azure services\RestaurantManagmentSolution\Restaurant.Application\obj\Debug\net8.0\RestaurantsApp.Application.AssemblyInfoInputs.cache
+D:\programming\.NET course\Udemy-ASP.NET Core 8 Web API Clean architecture&Azure services\RestaurantManagmentSolution\Restaurant.Application\obj\Debug\net8.0\RestaurantsApp.Application.AssemblyInfo.cs
+D:\programming\.NET course\Udemy-ASP.NET Core 8 Web API Clean architecture&Azure services\RestaurantManagmentSolution\Restaurant.Application\obj\Debug\net8.0\RestaurantsApp.Application.csproj.CoreCompileInputs.cache
+D:\programming\.NET course\Udemy-ASP.NET Core 8 Web API Clean architecture&Azure services\RestaurantManagmentSolution\Restaurant.Application\obj\Debug\net8.0\Restaura.B4EC1BB7.Up2Date
+D:\programming\.NET course\Udemy-ASP.NET Core 8 Web API Clean architecture&Azure services\RestaurantManagmentSolution\Restaurant.Application\obj\Debug\net8.0\RestaurantsApp.Application.dll
+D:\programming\.NET course\Udemy-ASP.NET Core 8 Web API Clean architecture&Azure services\RestaurantManagmentSolution\Restaurant.Application\obj\Debug\net8.0\refint\RestaurantsApp.Application.dll
+D:\programming\.NET course\Udemy-ASP.NET Core 8 Web API Clean architecture&Azure services\RestaurantManagmentSolution\Restaurant.Application\obj\Debug\net8.0\RestaurantsApp.Application.pdb
+D:\programming\.NET course\Udemy-ASP.NET Core 8 Web API Clean architecture&Azure services\RestaurantManagmentSolution\Restaurant.Application\obj\Debug\net8.0\ref\RestaurantsApp.Application.dll
