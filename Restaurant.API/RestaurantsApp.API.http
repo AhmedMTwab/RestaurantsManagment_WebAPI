@@ -1,0 +1,44 @@
+﻿@RestaurantsApp.API_HostAddress = https://localhost:7156
+
+POST {{RestaurantsApp.API_HostAddress}}/api/restaurant
+Content-Type: application/json
+{"name":"KFC",
+"description":"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
+"type":"Fast Food",
+"hasDelivery":true,
+"contactEmail":"bcolmore0@buzzfeed.com",
+"contactNumber":"988-598-1413",
+"street":"6056 Harbort Junction",
+"city":"LA",
+"postalCode": "12548",
+"country":"USA"}
+
+###
+
+GET {{RestaurantsApp.API_HostAddress}}/api/restaurant
+
+###
+
+GET {{RestaurantsApp.API_HostAddress}}/api/restaurant/27be24e0-01cb-4253-2d2d-08dd9edc4b58
+
+###
+
+PUT {{RestaurantsApp.API_HostAddress}}/api/restaurant/27be24e0-01cb-4253-2d2d-08dd9edc4b22
+Content-Type: application/json
+
+{"name":"HellsKitchen",
+"description":"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
+"type":"Fine Dining",
+"hasDelivery":true,
+"contactEmail":"bcolmore0@buzzfeed.com",
+"contactNumber":"988-598-1413",
+"street":"6056 Harbort Junction",
+"city":"Huiyuan",
+"postalCode": "12548",
+"country":"China"}
+
+###
+
+DELETE {{RestaurantsApp.API_HostAddress}}/api/restaurant/27be24e0-01cb-4253-2d2d-08dd9edc4b22
+
+###

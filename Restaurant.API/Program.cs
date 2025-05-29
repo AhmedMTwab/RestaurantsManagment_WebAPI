@@ -1,3 +1,4 @@
+using RestaurantsApp.Application.ApplicationDIContainer;
 using RestaurantsApp.Infrastructure.InfrastructureContainers;
 
 namespace Restaurant.API
@@ -9,11 +10,13 @@ namespace Restaurant.API
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
-            builder.Services.AddInfrastructure(builder.Configuration);
+            builder.Services.AddInfrastructureDependancies(builder.Configuration);
+            builder.Services.AddApplicationDependancies(builder.Configuration);
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
-
+            builder.Services.AddAuthorization();
+            builder.Services.AddControllers();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -21,6 +24,7 @@ namespace Restaurant.API
             {
                 app.UseSwagger();
                 app.UseSwaggerUI();
+                app.UseDeveloperExceptionPage();
             }
 
             app.UseHttpsRedirection();

@@ -13,3 +13,4 @@ D:\programming\.NET course\Udemy-ASP.NET Core 8 Web API Clean architecture&Azure
 D:\programming\.NET course\Udemy-ASP.NET Core 8 Web API Clean architecture&Azure services\RestaurantManagmentSolution\Restaurant.Application\obj\Debug\net8.0\refint\RestaurantsApp.Application.dll
 D:\programming\.NET course\Udemy-ASP.NET Core 8 Web API Clean architecture&Azure services\RestaurantManagmentSolution\Restaurant.Application\obj\Debug\net8.0\RestaurantsApp.Application.pdb
 D:\programming\.NET course\Udemy-ASP.NET Core 8 Web API Clean architecture&Azure services\RestaurantManagmentSolution\Restaurant.Application\obj\Debug\net8.0\ref\RestaurantsApp.Application.dll
+D:\programming\.NET course\Udemy-ASP.NET Core 8 Web API Clean architecture&Azure services\RestaurantManagmentSolution\Restaurant.Application\obj\Debug\net8.0\RestaurantsApp.Application.sourcelink.json

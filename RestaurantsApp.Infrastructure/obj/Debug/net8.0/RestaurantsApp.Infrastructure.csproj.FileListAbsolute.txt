@@ -17,3 +17,4 @@ D:\programming\.NET course\Udemy-ASP.NET Core 8 Web API Clean architecture&Azure
 D:\programming\.NET course\Udemy-ASP.NET Core 8 Web API Clean architecture&Azure services\RestaurantManagmentSolution\RestaurantsApp.Infrastructure\obj\Debug\net8.0\RestaurantsApp.Infrastructure.pdb
 D:\programming\.NET course\Udemy-ASP.NET Core 8 Web API Clean architecture&Azure services\RestaurantManagmentSolution\RestaurantsApp.Infrastructure\obj\Debug\net8.0\RestaurantsApp.Infrastructure.genruntimeconfig.cache
 D:\programming\.NET course\Udemy-ASP.NET Core 8 Web API Clean architecture&Azure services\RestaurantManagmentSolution\RestaurantsApp.Infrastructure\obj\Debug\net8.0\ref\RestaurantsApp.Infrastructure.dll
+D:\programming\.NET course\Udemy-ASP.NET Core 8 Web API Clean architecture&Azure services\RestaurantManagmentSolution\RestaurantsApp.Infrastructure\obj\Debug\net8.0\RestaurantsApp.Infrastructure.sourcelink.json

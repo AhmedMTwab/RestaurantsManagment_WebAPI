@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "D:\\programming\\.NET course\\Udemy-ASP.NET Core 8 Web API Clean architecture\u0026Azure services\\RestaurantManagmentSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A63716C0-6A8D-4598-8998-D744DCA49DE1}|Restaurant.API\\RestaurantsApp.API.csproj|d:\\programming\\.net course\\udemy-asp.net core 8 web api clean architecture\u0026azure services\\restaurantmanagmentsolution\\restaurant.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A63716C0-6A8D-4598-8998-D744DCA49DE1}|Restaurant.API\\RestaurantsApp.API.csproj|solutionrelative:restaurant.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A63716C0-6A8D-4598-8998-D744DCA49DE1}|Restaurant.API\\RestaurantsApp.API.csproj|d:\\programming\\.net course\\udemy-asp.net core 8 web api clean architecture\u0026azure services\\restaurantmanagmentsolution\\restaurant.api\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63716C0-6A8D-4598-8998-D744DCA49DE1}|Restaurant.API\\RestaurantsApp.API.csproj|solutionrelative:restaurant.api\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C07C00E-8C6D-481C-BEBE-49F899CE6B15}|RestaurantsApp.Infrastructure\\RestaurantsApp.Infrastructure.csproj|d:\\programming\\.net course\\udemy-asp.net core 8 web api clean architecture\u0026azure services\\restaurantmanagmentsolution\\restaurantsapp.infrastructure\\infrastructurecontainers\\infrastructurecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C07C00E-8C6D-481C-BEBE-49F899CE6B15}|RestaurantsApp.Infrastructure\\RestaurantsApp.Infrastructure.csproj|solutionrelative:restaurantsapp.infrastructure\\infrastructurecontainers\\infrastructurecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C07C00E-8C6D-481C-BEBE-49F899CE6B15}|RestaurantsApp.Infrastructure\\RestaurantsApp.Infrastructure.csproj|d:\\programming\\.net course\\udemy-asp.net core 8 web api clean architecture\u0026azure services\\restaurantmanagmentsolution\\restaurantsapp.infrastructure\\context\\restaurantappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C07C00E-8C6D-481C-BEBE-49F899CE6B15}|RestaurantsApp.Infrastructure\\RestaurantsApp.Infrastructure.csproj|solutionrelative:restaurantsapp.infrastructure\\context\\restaurantappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{011005A2-F89A-41B6-ADF5-4342F44D6154}|Restaurant.Domain\\RestaurantsApp.Domain.csproj|d:\\programming\\.net course\\udemy-asp.net core 8 web api clean architecture\u0026azure services\\restaurantmanagmentsolution\\restaurant.domain\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{011005A2-F89A-41B6-ADF5-4342F44D6154}|Restaurant.Domain\\RestaurantsApp.Domain.csproj|solutionrelative:restaurant.domain\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{011005A2-F89A-41B6-ADF5-4342F44D6154}|Restaurant.Domain\\RestaurantsApp.Domain.csproj|d:\\programming\\.net course\\udemy-asp.net core 8 web api clean architecture\u0026azure services\\restaurantmanagmentsolution\\restaurant.domain\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{011005A2-F89A-41B6-ADF5-4342F44D6154}|Restaurant.Domain\\RestaurantsApp.Domain.csproj|solutionrelative:restaurant.domain\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{011005A2-F89A-41B6-ADF5-4342F44D6154}|Restaurant.Domain\\RestaurantsApp.Domain.csproj|d:\\programming\\.net course\\udemy-asp.net core 8 web api clean architecture\u0026azure services\\restaurantmanagmentsolution\\restaurant.domain\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{011005A2-F89A-41B6-ADF5-4342F44D6154}|Restaurant.Domain\\RestaurantsApp.Domain.csproj|solutionrelative:restaurant.domain\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C07C00E-8C6D-481C-BEBE-49F899CE6B15}|RestaurantsApp.Infrastructure\\RestaurantsApp.Infrastructure.csproj|d:\\programming\\.net course\\udemy-asp.net core 8 web api clean architecture\u0026azure services\\restaurantmanagmentsolution\\restaurantsapp.infrastructure\\repositories\\restaurantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C07C00E-8C6D-481C-BEBE-49F899CE6B15}|RestaurantsApp.Infrastructure\\RestaurantsApp.Infrastructure.csproj|solutionrelative:restaurantsapp.infrastructure\\repositories\\restaurantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,76 +35,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\programming\\.NET course\\Udemy-ASP.NET Core 8 Web API Clean architecture\u0026Azure services\\RestaurantManagmentSolution\\Restaurant.API\\Program.cs",
-              "RelativeDocumentMoniker": "Restaurant.API\\Program.cs",
-              "ToolTip": "D:\\programming\\.NET course\\Udemy-ASP.NET Core 8 Web API Clean architecture\u0026Azure services\\RestaurantManagmentSolution\\Restaurant.API\\Program.cs",
-              "RelativeToolTip": "Restaurant.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Title": "RestaurantController.cs",
+              "DocumentMoniker": "D:\\programming\\.NET course\\Udemy-ASP.NET Core 8 Web API Clean architecture\u0026Azure services\\RestaurantManagmentSolution\\Restaurant.API\\Controllers\\RestaurantController.cs",
+              "RelativeDocumentMoniker": "Restaurant.API\\Controllers\\RestaurantController.cs",
+              "ToolTip": "D:\\programming\\.NET course\\Udemy-ASP.NET Core 8 Web API Clean architecture\u0026Azure services\\RestaurantManagmentSolution\\Restaurant.API\\Controllers\\RestaurantController.cs",
+              "RelativeToolTip": "Restaurant.API\\Controllers\\RestaurantController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwCkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T14:54:57.719Z",
+              "WhenOpened": "2025-05-29T18:15:33.951Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "InfrastructureContainer.cs",
-              "DocumentMoniker": "D:\\programming\\.NET course\\Udemy-ASP.NET Core 8 Web API Clean architecture\u0026Azure services\\RestaurantManagmentSolution\\RestaurantsApp.Infrastructure\\InfrastructureContainers\\InfrastructureContainer.cs",
-              "RelativeDocumentMoniker": "RestaurantsApp.Infrastructure\\InfrastructureContainers\\InfrastructureContainer.cs",
-              "ToolTip": "D:\\programming\\.NET course\\Udemy-ASP.NET Core 8 Web API Clean architecture\u0026Azure services\\RestaurantManagmentSolution\\RestaurantsApp.Infrastructure\\InfrastructureContainers\\InfrastructureContainer.cs",
-              "RelativeToolTip": "RestaurantsApp.Infrastructure\\InfrastructureContainers\\InfrastructureContainer.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABSAAAAAAAAAA==",
+              "Title": "RestaurantRepository.cs",
+              "DocumentMoniker": "D:\\programming\\.NET course\\Udemy-ASP.NET Core 8 Web API Clean architecture\u0026Azure services\\RestaurantManagmentSolution\\RestaurantsApp.Infrastructure\\Repositories\\RestaurantRepository.cs",
+              "RelativeDocumentMoniker": "RestaurantsApp.Infrastructure\\Repositories\\RestaurantRepository.cs",
+              "ToolTip": "D:\\programming\\.NET course\\Udemy-ASP.NET Core 8 Web API Clean architecture\u0026Azure services\\RestaurantManagmentSolution\\RestaurantsApp.Infrastructure\\Repositories\\RestaurantRepository.cs",
+              "RelativeToolTip": "RestaurantsApp.Infrastructure\\Repositories\\RestaurantRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA7wBsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T14:53:08.954Z",
+              "WhenOpened": "2025-05-29T18:12:48.523Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RestaurantAppDbContext.cs",
-              "DocumentMoniker": "D:\\programming\\.NET course\\Udemy-ASP.NET Core 8 Web API Clean architecture\u0026Azure services\\RestaurantManagmentSolution\\RestaurantsApp.Infrastructure\\Context\\RestaurantAppDbContext.cs",
-              "RelativeDocumentMoniker": "RestaurantsApp.Infrastructure\\Context\\RestaurantAppDbContext.cs",
-              "ToolTip": "D:\\programming\\.NET course\\Udemy-ASP.NET Core 8 Web API Clean architecture\u0026Azure services\\RestaurantManagmentSolution\\RestaurantsApp.Infrastructure\\Context\\RestaurantAppDbContext.cs",
-              "RelativeToolTip": "RestaurantsApp.Infrastructure\\Context\\RestaurantAppDbContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T14:33:56.307Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Dish.cs",
-              "DocumentMoniker": "D:\\programming\\.NET course\\Udemy-ASP.NET Core 8 Web API Clean architecture\u0026Azure services\\RestaurantManagmentSolution\\Restaurant.Domain\\Models\\Dish.cs",
-              "RelativeDocumentMoniker": "Restaurant.Domain\\Models\\Dish.cs",
-              "ToolTip": "D:\\programming\\.NET course\\Udemy-ASP.NET Core 8 Web API Clean architecture\u0026Azure services\\RestaurantManagmentSolution\\Restaurant.Domain\\Models\\Dish.cs",
-              "RelativeToolTip": "Restaurant.Domain\\Models\\Dish.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T13:16:40.9Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Address.cs",
-              "DocumentMoniker": "D:\\programming\\.NET course\\Udemy-ASP.NET Core 8 Web API Clean architecture\u0026Azure services\\RestaurantManagmentSolution\\Restaurant.Domain\\Models\\Address.cs",
-              "RelativeDocumentMoniker": "Restaurant.Domain\\Models\\Address.cs",
-              "ToolTip": "D:\\programming\\.NET course\\Udemy-ASP.NET Core 8 Web API Clean architecture\u0026Azure services\\RestaurantManagmentSolution\\Restaurant.Domain\\Models\\Address.cs",
-              "RelativeToolTip": "Restaurant.Domain\\Models\\Address.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T13:16:40.451Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Restaurant.cs",
-              "DocumentMoniker": "D:\\programming\\.NET course\\Udemy-ASP.NET Core 8 Web API Clean architecture\u0026Azure services\\RestaurantManagmentSolution\\Restaurant.Domain\\Models\\Restaurant.cs",
-              "RelativeDocumentMoniker": "Restaurant.Domain\\Models\\Restaurant.cs",
-              "ToolTip": "D:\\programming\\.NET course\\Udemy-ASP.NET Core 8 Web API Clean architecture\u0026Azure services\\RestaurantManagmentSolution\\Restaurant.Domain\\Models\\Restaurant.cs",
-              "RelativeToolTip": "Restaurant.Domain\\Models\\Restaurant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T13:05:49.53Z"
             }
           ]
         }
